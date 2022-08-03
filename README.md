@@ -3,13 +3,13 @@ BankingApplication
 1. Application idea:
 - 1.1. Stage I: implementation of CRUD methods (GET-POST-PUT-DELETE) with working out table relationships (OneToMany, ManyToMany) in the database.
 - 1.2. Stage II: expansion of functionality by the example of introducing transactions on accounts (related debit / credit operations) using control.
-2. The application was implemented using: Spring Boot module, Maven framework, Lombok libraries, PostgreSQL DBMS.
+2. The application was implemented using: Spring Boot module, Maven framework, Lombok libraries, PostgreSQL DBMS, Swagger.
 3. Table interaction scheme:
 
 1. Идея приложения:
 - 1.1. I этап: реализация работы CRUD методов (GET-POST-PUT-DELETE) с отработкой связей таблиц (OneToMany, ManyToMany) в БД.
 - 1.2. II этап: расширение функционала на примере введения транзакций по счетам (связанные операции списание/зачисление) с использованием контроля.
-2. Реализация приложения осуществлена с помощью: модуля Spring Boot, фреймворка Maven, библиотек Lombok, СУБД PostgreSQL.
+2. Реализация приложения осуществлена с помощью: модуля Spring Boot, фреймворка Maven, библиотек Lombok, СУБД PostgreSQL, Swagger.
 3. Схема взаимодействия таблиц:
 
 
