@@ -1,7 +1,5 @@
 package com.cot.bankingapplication.service;
 
-import com.cot.bankingapphibernate.entity.Account;
-import com.cot.bankingapphibernate.repository.AccountRepository;
 import com.cot.bankingapplication.entity.Account;
 import com.cot.bankingapplication.repository.AccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
