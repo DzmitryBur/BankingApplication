@@ -6,14 +6,15 @@ BankingApplication
 2. The application was implemented using: Spring Boot module, Hibernate framework, Maven framework, Lombok libraries, PostgreSQL DBMS, Swagger framework.
 3. Table interaction scheme:
 
+
+![Tables](https://user-images.githubusercontent.com/96749989/182694857-fcea5776-4638-4c94-a7d4-74853bdaf77f.png)
+
 1. Идея приложения:
 - 1.1. I этап: реализация работы CRUD методов (GET-POST-PUT-DELETE) с отработкой связей таблиц (OneToMany, ManyToMany) в БД.
 - 1.2. II этап: расширение функционала на примере введения транзакций по счетам (связанные операции списание/зачисление) с использованием контроля.
 2. Реализация приложения осуществлена с помощью: модуля Spring Boot, библиотеки Hibernate, фреймворка Maven, библиотек Lombok, СУБД PostgreSQL, фреймфорк Swagger.
-3. Схема взаимодействия таблиц:
+3. Схему взаимодействия таблиц см. выше.
 
-
-![Tables](https://user-images.githubusercontent.com/96749989/182694857-fcea5776-4638-4c94-a7d4-74853bdaf77f.png)
 
 How to work with the application:
 
