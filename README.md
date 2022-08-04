@@ -10,7 +10,7 @@ BankingApplication
 ![Tables](https://user-images.githubusercontent.com/96749989/182694857-fcea5776-4638-4c94-a7d4-74853bdaf77f.png)
 
 
-How to work with the application:
+2. How to work with the application:
 
 1. It is necessary to implement the database in accordance with the attached table schema.
 2. Customize the application.yml file depending on its properties.
@@ -24,10 +24,11 @@ How to work with the application:
 - 1.2. II этап: расширение функционала на примере введения транзакций по счетам (связанные операции списание/зачисление) с использованием контроля.
 2. Реализация приложения осуществлена с помощью: модуля Spring Boot, библиотеки Hibernate, фреймворка Maven, библиотек Lombok, СУБД PostgreSQL, фреймфорк Swagger.
 3. Схему взаимодействия таблиц см. выше.
-Порядок работы с приложением:
 
-1. Необходимо реализовать БД в соответствии с приложенной схемой таблиц.
-2. Настроить файл application.yml в зависимости от своих свойств.
-3. Тестировать приложение можно с помощью:
+2. Порядок работы с приложением:
+3. 
+4. Необходимо реализовать БД в соответствии с приложенной схемой таблиц.
+5. Настроить файл application.yml в зависимости от своих свойств.
+6. Тестировать приложение можно с помощью:
 - 3.1. Postman;
 - 3.2. Swagger-ui (http://localhost:****/swagger-ui/). **** - порт, который используется на локальной машине, например 8080.
